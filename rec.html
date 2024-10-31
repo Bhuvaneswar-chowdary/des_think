@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Recommendations</title>
+    <link rel="stylesheet" href="rec.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Car Recommendation Form</h1>
+        <div class="form-group">
+            <label for="age-group">Select Age Group:</label>
+            <select id="age-group" name="age-group">
+                <option value="">--Select Your Age Group--</option>
+                <option value="18-25">18-25</option>
+                <option value="26-35">26-35</option>
+                <option value="36-50">36-50</option>
+                <option value="51+">51+</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="driving-area">Select Driving Area:</label>
+            <select id="driving-area" name="driving-area">
+                <option value="">--Select an Area--</option>
+                <option value="urban">Urban</option>
+                <option value="rural">Rural</option>
+                <option value="urban-rural">Urban/Rural</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <button type="button" id="submit-btn">Submit</button>
+        </div>
+
+        <h2>Recommended Cars</h2>
+        <table id="car-table" border="1">
+            <thead>
+                <tr>
+                    <th>Car Name</th>
+                    <th>Car Image</th>
+                    <th>Mileage</th>
+                    <th>car Image</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Car recommendations will be populated here -->
+            </tbody>
+        </table>
+
+        <!-- Linking to the JavaScript file -->
+        <script src="rec2.js"></script>
+    </div>
+</body>
+</html>

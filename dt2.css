@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('background.jpg'); /* Add the image URL here */
+  background-size: cover; /* This makes the image cover the entire background */
+  background-position: center; /* Centers the background image */
+  background-attachment: fixed; /* Makes the image stay fixed when scrolling */
+}
+
+h1 {
+  color: #333;
+}
+.container {
+  max-width: 960px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.9); /* Slight transparency to see the background */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+input[type="number"], select {
+  padding: 10px;
+  width: 70%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+#filcars {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#filcars:hover {
+  background-color: #45a049;
+}
+
+#car-list {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+select {
+  width: 70%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+#car-list {
+  margin-top: 20px;
+}
+
+.car-item {
+  background-color: #f9f9f9;
+  padding: 15px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.car-item p {
+  margin: 0;
+}
+
+.car-item .price {
+  font-weight: bold;
+  color: #28a745;
+}
+
+.car-item .name {
+  font-size: 18px;
+  color: #333;
+}

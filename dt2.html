@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Car Filter</title>
+  <link rel="stylesheet" href="dt2.css">
+</head>
+<body>
+  
+  <h1>Drive Deal</h1>
+  <div class="container">
+    <input type="number" id="price" onchange="filterCars()" placeholder="Enter maximum price">
+    <select id="fuel-type" onchange="filterCars()">
+        <option value="">Select Fuel Type</option>
+        <option value="petrol">Petrol</option>
+        <option value="diesel">Diesel</option>
+    </select>
+    For reccomendations <a href="rec.html">click here</a>
+    <button id="filcars" onclick="filterCars()">Filter Cars</button>
+    <div id="car-list"></div>
+</div>
+
+
+  <!-- Include PapaParse library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  <!-- Include your JavaScript file -->
+  <script src="dt2.js"></script>
+</body>
+</html>

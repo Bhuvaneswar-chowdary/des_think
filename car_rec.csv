@@ -1,0 +1,1268 @@
+,Make,Model,age,area,City_Mileage
+0,Tata,Nano Genx,51+,Urban/Rural,?23.6 km/litre
+1,Tata,Nano Genx,36-50,Rural,?23.6 km/litre
+2,Tata,Nano Genx,51+,Urban,
+3,Tata,Nano Genx,51+,Urban,?23.6 km/litre
+4,Tata,Nano Genx,18-25,Urban/Rural,?23.6 km/litre
+5,Tata,Nano Genx,36-50,Urban/Rural,?23.6 km/litre
+6,Datsun,Redi-Go,51+,Urban,21.38 km/litre
+7,Datsun,Redi-Go,51+,Urban/Rural,21.38 km/litre
+8,Datsun,Redi-Go,18-25,Urban/Rural,21.38 km/litre
+9,Datsun,Redi-Go,51+,Urban/Rural,21.38 km/litre
+10,Datsun,Redi-Go,18-25,Urban/Rural,
+11,Datsun,Redi-Go,36-50,Urban/Rural,
+12,Renault,Kwid,51+,Urban,25.17 km/litre
+13,Renault,Kwid,18-25,Urban/Rural,25.17 km/litre
+14,Renault,Kwid,18-25,Rural,25.17 km/litre
+15,Renault,Kwid,18-25,Urban/Rural,25.17 km/litre
+16,Renault,Kwid,51+,Rural,25.17 km/litre
+17,Renault,Kwid,51+,Urban,25.17 km/litre
+18,Renault,Kwid,18-25,Urban,25.17 km/litre
+19,Renault,Kwid,51+,Rural,25.17 km/litre
+20,Renault,Kwid,26-35,Rural,25.17 km/litre
+21,Renault,Kwid,26-35,Rural,25.17 km/litre
+22,Renault,Kwid,26-35,Urban,25.17 km/litre
+23,Renault,Kwid,51+,Urban/Rural,25.17 km/litre
+24,Maruti Suzuki,Eeco,26-35,Urban/Rural,12 km/litre
+25,Maruti Suzuki,Eeco,18-25,Urban/Rural,12 km/litre
+26,Maruti Suzuki,Eeco,18-25,Urban/Rural,11 km/litre
+27,Maruti Suzuki,Eeco,26-35,Rural,
+28,Maruti Suzuki,Eeco,26-35,Urban,
+29,Maruti Suzuki,Alto K10,51+,Rural,14 km/litre
+30,Maruti Suzuki,Alto K10,36-50,Urban,14 km/litre
+31,Maruti Suzuki,Alto K10,51+,Urban/Rural,19 km/litre
+32,Maruti Suzuki,Alto K10,26-35,Urban/Rural,14 km/litre
+33,Maruti Suzuki,Alto K10,51+,Urban,
+34,Maruti Suzuki,Alto K10,36-50,Urban,14 km/litre
+35,Datsun,Go,51+,Rural,
+36,Datsun,Go,18-25,Urban/Rural,
+37,Datsun,Go,51+,Rural,20.6 km/litre
+38,Datsun,Go,51+,Urban/Rural,20.6 km/litre
+39,Datsun,Go,51+,Urban,20.6 km/litre
+40,Datsun,Go,18-25,Rural,
+41,Datsun,Go,36-50,Urban/Rural,20.6 km/litre
+42,Datsun,Go,18-25,Urban,
+43,Datsun,Go,36-50,Urban,20.6 km/litre
+44,Maruti Suzuki,Celerio Tour,51+,Rural,23 km/litre
+45,Maruti Suzuki,Celerio Tour,26-35,Urban,
+46,Hyundai,Santro,51+,Urban/Rural,
+47,Hyundai,Santro,18-25,Urban,
+48,Hyundai,Santro,36-50,Rural,
+49,Hyundai,Santro,51+,Urban,
+50,Hyundai,Santro,51+,Rural,
+51,Hyundai,Santro,51+,Rural,
+52,Hyundai,Santro,18-25,Rural,
+53,Hyundai,Santro,51+,Rural,
+54,Tata,Tiago,26-35,Urban,
+55,Tata,Tiago,51+,Urban,23.84 km/litre
+56,Tata,Tiago,51+,Urban,23.84 km/litre
+57,Tata,Tiago,51+,Rural,23.84 km/litre
+58,Tata,Tiago,36-50,Urban/Rural,23.84 km/litre
+59,Tata,Tiago,18-25,Urban/Rural,23.84 km/litre
+60,Tata,Tiago,18-25,Urban/Rural,23.84 km/litre
+61,Tata,Tiago,26-35,Urban/Rural,23.84 km/litre
+62,Maruti Suzuki,Celerio X,18-25,Urban/Rural,23 km/litre
+63,Maruti Suzuki,Celerio X,51+,Rural,23 km/litre
+64,Maruti Suzuki,Celerio X,51+,Urban,23 km/litre
+65,Maruti Suzuki,Celerio X,36-50,Urban,23 km/litre
+66,Maruti Suzuki,Celerio X,26-35,Urban/Rural,23 km/litre
+67,Maruti Suzuki,Celerio X,51+,Rural,23 km/litre
+68,Maruti Suzuki,Celerio X,51+,Urban/Rural,23 km/litre
+69,Maruti Suzuki,Celerio X,51+,Urban/Rural,23 km/litre
+70,Maruti Suzuki,Ignis,51+,Rural,20.89 km/litre
+71,Maruti Suzuki,Ignis,18-25,Urban,20.89 km/litre
+72,Maruti Suzuki,Ignis,36-50,Urban,20.89 km/litre
+73,Maruti Suzuki,Ignis,51+,Rural,20.89 km/litre
+74,Maruti Suzuki,Ignis,51+,Rural,20.89 km/litre
+75,Maruti Suzuki,Ignis,26-35,Urban,15.1 km/litre
+76,Maruti Suzuki,Ignis,26-35,Urban,20.89 km/litre
+77,Renault,Triber,51+,Urban,
+78,Renault,Triber,18-25,Urban,
+79,Renault,Triber,26-35,Rural,
+80,Renault,Triber,18-25,Urban/Rural,
+81,Premier,Rio,51+,Urban/Rural,13 km/litre
+82,Premier,Rio,36-50,Urban,12 km/litre
+83,Premier,Rio,18-25,Urban,13 km/litre
+84,Premier,Rio,51+,Rural,12 km/litre
+85,Premier,Rio,51+,Urban/Rural,12 km/litre
+86,Premier,Rio,51+,Urban,20 km/litre
+87,Toyota,Etios Liva,51+,Urban/Rural,15.1 km/litre
+88,Toyota,Etios Liva,51+,Urban,15.1 km/litre
+89,Toyota,Etios Liva,51+,Urban/Rural,20.3 km/litre
+90,Toyota,Etios Liva,18-25,Rural,15.1 km/litre
+91,Toyota,Etios Liva,36-50,Urban,20.3 km/litre
+92,Toyota,Etios Liva,26-35,Urban,20.3 km/litre
+93,Toyota,Etios Liva,18-25,Urban/Rural,15.1 km/litre
+94,Toyota,Etios Liva,18-25,Urban/Rural,20.3 km/litre
+95,Toyota,Etios Liva,36-50,Urban,15.1 km/litre
+96,Toyota,Etios Liva,51+,Urban/Rural,20.3 km/litre
+97,Toyota,Etios Liva,36-50,Urban/Rural,15.1 km/litre
+98,Toyota,Etios Liva,51+,Urban/Rural,20.3 km/litre
+99,Toyota,Etios Liva,18-25,Urban,15.1 km/litre
+100,Toyota,Etios Liva,36-50,Rural,20.3 km/litre
+101,Nissan,Micra Active,51+,Urban/Rural,
+102,Nissan,Micra Active,18-25,Urban,19.49 km/litre
+103,Nissan,Micra Active,36-50,Urban/Rural,
+104,Tata,Bolt,36-50,Urban,"22,95 km/litre"
+105,Tata,Bolt,51+,Urban,"22,95 km/litre"
+106,Tata,Bolt,51+,Urban/Rural,"22,95 km/litre"
+107,Tata,Bolt,18-25,Urban/Rural,"22,95 km/litre"
+108,Tata,Bolt,51+,Rural,"17,57 km/litre"
+109,Tata,Bolt,18-25,Urban/Rural,"17,57 km/litre"
+110,Tata,Bolt,51+,Urban,"17,57 km/litre"
+111,Tata,Bolt,51+,Urban/Rural,"17,57 km/litre"
+112,Hyundai,Xcent Prime,51+,Urban,
+113,Hyundai,Xcent Prime,36-50,Urban/Rural,
+114,Hyundai,Xcent Prime,36-50,Urban/Rural,
+115,Hyundai,Xcent Prime,51+,Urban/Rural,
+116,Hyundai,Xcent Prime,51+,Urban/Rural,
+117,Hyundai,Xcent Prime,36-50,Urban,
+118,Maruti Suzuki,Dzire Tour,51+,Urban,14.6 km/litre
+119,Maruti Suzuki,Dzire Tour,51+,Urban/Rural,16.3 km/litre
+120,Maruti Suzuki,Dzire Tour,36-50,Urban,
+121,Hyundai,Elite I20,26-35,Rural,13.3 km/litre
+122,Hyundai,Elite I20,36-50,Urban/Rural,18.4 km/litre
+123,Hyundai,Elite I20,18-25,Rural,13.3 km/litre
+124,Hyundai,Elite I20,26-35,Rural,18.4 km/litre
+125,Hyundai,Elite I20,51+,Rural,13.3 km/litre
+126,Hyundai,Elite I20,51+,Urban/Rural,18.4 km/litre
+127,Hyundai,Elite I20,18-25,Urban,13.3 km/litre
+128,Hyundai,Elite I20,36-50,Urban,18.4 km/litre
+129,Hyundai,Elite I20,18-25,Urban/Rural,13.3 km/litre
+130,Hyundai,Elite I20,26-35,Rural,13.3 km/litre
+131,Hyundai,Elite I20,51+,Urban/Rural,13.3 km/litre
+132,Hyundai,Elite I20,51+,Urban/Rural,18.4 km/litre
+133,Hyundai,Aura,36-50,Urban,
+134,Hyundai,Aura,26-35,Urban/Rural,
+135,Hyundai,Aura,26-35,Urban/Rural,
+136,Hyundai,Aura,51+,Rural,
+137,Hyundai,Aura,51+,Urban/Rural,
+138,Hyundai,Aura,51+,Rural,
+139,Hyundai,Aura,51+,Urban/Rural,
+140,Hyundai,Aura,18-25,Urban,
+141,Hyundai,Aura,51+,Urban,
+142,Hyundai,Aura,36-50,Urban/Rural,
+143,Hyundai,Aura,51+,Urban/Rural,
+144,Hyundai,Aura,18-25,Urban/Rural,
+145,Volkswagen,Polo,36-50,Urban/Rural,14 km/litre
+146,Volkswagen,Polo,36-50,Urban,14 km/litre
+147,Volkswagen,Polo,51+,Urban/Rural,14 km/litre
+148,Volkswagen,Polo,26-35,Urban/Rural,19 km/litre
+149,Volkswagen,Polo,18-25,Urban/Rural,19 km/litre
+150,Volkswagen,Polo,51+,Urban,19 km/litre
+151,Volkswagen,Polo,51+,Urban,17 km/litre
+152,Volkswagen,Polo,51+,Urban/Rural,19 km/litre
+153,Maruti Suzuki,Dzire,51+,Rural,16.3 km/litre
+154,Maruti Suzuki,Dzire,51+,Urban/Rural,16.3 km/litre
+155,Maruti Suzuki,Dzire,18-25,Urban,"28,4 km/litre"
+156,Maruti Suzuki,Dzire,51+,Urban,16.3 km/litre
+157,Maruti Suzuki,Dzire,36-50,Urban/Rural,28.4 km/litre
+158,Maruti Suzuki,Dzire,18-25,Urban,16.3 km/litre
+159,Maruti Suzuki,Dzire,18-25,Urban,28.4 km/litre
+160,Maruti Suzuki,Dzire,51+,Urban/Rural,"28,4 km/litre"
+161,Maruti Suzuki,Dzire,26-35,Urban/Rural,16.3 km/litre
+162,Maruti Suzuki,Dzire,26-35,Urban/Rural,16.3 km/litre
+163,Maruti Suzuki,Dzire,36-50,Rural,16.3 km/litre
+164,Maruti Suzuki,Dzire,51+,Urban,"28,4 km/litre"
+165,Maruti Suzuki,Dzire,51+,Rural,28.4 km/litre
+166,Maruti Suzuki,Dzire,51+,Urban,28.4 km/litre
+167,Ford,Freestyle,18-25,Urban/Rural,
+168,Ford,Freestyle,36-50,Urban/Rural,
+169,Ford,Freestyle,26-35,Urban/Rural,
+170,Ford,Freestyle,26-35,Urban/Rural,
+171,Ford,Freestyle,26-35,Urban,
+172,Ford,Freestyle,51+,Rural,
+173,Ford,Freestyle,26-35,Urban,
+174,Ford,Freestyle,51+,Rural,
+175,Volkswagen,Ameo,18-25,Urban/Rural,15.3 km/litre
+176,Volkswagen,Ameo,18-25,Urban,15.3 km/litre
+177,Volkswagen,Ameo,18-25,Urban/Rural,15.3 km/litre
+178,Volkswagen,Ameo,51+,Urban/Rural,15.3 km/litre
+179,Volkswagen,Ameo,26-35,Urban,
+180,Volkswagen,Ameo,18-25,Rural,
+181,Volkswagen,Ameo,51+,Urban/Rural,
+182,Volkswagen,Ameo,51+,Urban/Rural,15.3 km/litre
+183,Ford,Aspire,51+,Rural,
+184,Ford,Aspire,18-25,Urban,
+185,Ford,Aspire,36-50,Urban,
+186,Ford,Aspire,26-35,Urban,
+187,Ford,Aspire,18-25,Urban,
+188,Ford,Aspire,26-35,Rural,
+189,Ford,Aspire,51+,Urban,
+190,Ford,Aspire,26-35,Urban,
+191,Ford,Aspire,51+,Urban/Rural,
+192,Ford,Aspire,51+,Rural,
+193,Ford,Aspire,26-35,Rural,
+194,Ford,Aspire,26-35,Urban,
+195,Ford,Aspire,18-25,Urban,
+196,Toyota,Platinum Etios,51+,Rural,"13,6 km/litre"
+197,Toyota,Platinum Etios,26-35,Urban/Rural,"13,6 km/litre"
+198,Toyota,Platinum Etios,18-25,Urban,20.32 km/litre
+199,Toyota,Platinum Etios,51+,Urban/Rural,20.3 km/litre
+200,Toyota,Platinum Etios,51+,Rural,20.32 km/litre
+201,Toyota,Platinum Etios,51+,Urban/Rural,"13,6 km/litre"
+202,Toyota,Platinum Etios,36-50,Urban/Rural,13.6 km/litre
+203,Toyota,Platinum Etios,51+,Rural,20.3 km/litre
+204,Toyota,Platinum Etios,36-50,Urban,20.32 km/litre
+205,Toyota,Platinum Etios,51+,Urban/Rural,13.6 km/litre
+206,Toyota,Etios Cross,36-50,Rural,15 km/litre
+207,Toyota,Etios Cross,26-35,Urban/Rural,"16,78 km/litre"
+208,Toyota,Etios Cross,51+,Rural,18.1 km/litre
+209,Toyota,Etios Cross,26-35,Urban/Rural,18.1 km/litre
+210,Toyota,Etios Cross,51+,Urban,16.78 km/litre
+211,Toyota,Etios Cross,36-50,Rural,18.1 km/litre
+212,Mahindra,Verito Vibe,51+,Urban/Rural,18 km/litre
+213,Mahindra,Verito Vibe,18-25,Rural,18 km/litre
+214,Mahindra,Verito Vibe,18-25,Rural,18 km/litre
+215,Fiat,Urban Cross,26-35,Urban/Rural,20 km/litre
+216,Fiat,Urban Cross,51+,Urban/Rural,20 km/litre
+217,Fiat,Urban Cross,51+,Urban/Rural,17 km/litre
+218,Fiat,Urban Cross,18-25,Urban,20 km/litre
+219,Toyota,Glanza,26-35,Rural,
+220,Toyota,Glanza,26-35,Urban/Rural,
+221,Toyota,Glanza,51+,Urban,
+222,Toyota,Glanza,51+,Urban,
+223,Toyota,Glanza,51+,Urban/Rural,
+224,Fiat,Avventura,51+,Rural,11.2 km/litre
+225,Fiat,Avventura,18-25,Urban/Rural,11.2 km/litre
+226,Fiat,Avventura,26-35,Rural,11.2 km/litre
+227,Honda,Jazz,51+,Urban/Rural,11.3 km/litre
+228,Honda,Jazz,51+,Rural,11.3 km/litre
+229,Honda,Jazz,51+,Rural,11.3 km/litre
+230,Honda,Jazz,18-25,Rural,11.3 km/litre
+231,Honda,Jazz,36-50,Urban/Rural,12 km/litre
+232,Honda,Jazz,51+,Urban/Rural,12 km/litre
+233,Honda,Jazz,18-25,Urban/Rural,12 km/litre
+234,Honda,Jazz,26-35,Urban,
+235,Mahindra,Bolero Power Plus,18-25,Urban/Rural,12.4 km/litre
+236,Mahindra,Bolero Power Plus,51+,Urban/Rural,12.4 km/litre
+237,Mahindra,Bolero Power Plus,51+,Urban/Rural,12.4 km/litre
+238,Mahindra,Bolero Power Plus,26-35,Urban/Rural,12.4 km/litre
+239,Mahindra,Bolero Power Plus,51+,Rural,9.4 km/litre
+240,Mahindra,Bolero Power Plus,26-35,Urban/Rural,12.4 km/litre
+241,Maruti Suzuki,Vitara Brezza,51+,Urban,20 km/litre
+242,Maruti Suzuki,Vitara Brezza,18-25,Urban/Rural,20 km/litre
+243,Maruti Suzuki,Vitara Brezza,51+,Rural,20 km/litre
+244,Maruti Suzuki,Vitara Brezza,26-35,Rural,20 km/litre
+245,Maruti Suzuki,Vitara Brezza,36-50,Urban/Rural,20 km/litre
+246,Maruti Suzuki,Vitara Brezza,51+,Urban/Rural,20 km/litre
+247,Maruti Suzuki,Vitara Brezza,51+,Urban/Rural,20 km/litre
+248,Maruti Suzuki,Vitara Brezza,36-50,Urban,20 km/litre
+249,Maruti Suzuki,Vitara Brezza,36-50,Urban,20 km/litre
+250,Hyundai,I20 Active,26-35,Urban/Rural,15 km/litre
+251,Hyundai,I20 Active,18-25,Urban/Rural,15 km/litre
+252,Hyundai,I20 Active,18-25,Urban/Rural,15 km/litre
+253,Hyundai,I20 Active,51+,Urban/Rural,21.19 km/litre
+254,Ford,Ecosport,51+,Urban,
+255,Ford,Ecosport,26-35,Urban/Rural,
+256,Ford,Ecosport,26-35,Urban/Rural,
+257,Ford,Ecosport,26-35,Urban,
+258,Ford,Ecosport,18-25,Urban,
+259,Ford,Ecosport,36-50,Urban/Rural,
+260,Ford,Ecosport,18-25,Urban/Rural,
+261,Ford,Ecosport,26-35,Urban/Rural,
+262,Ford,Ecosport,18-25,Urban/Rural,
+263,Ford,Ecosport,51+,Urban/Rural,
+264,Ford,Ecosport,18-25,Urban/Rural,
+265,Ford,Ecosport,26-35,Rural,
+266,Renault,Duster,51+,Urban/Rural,10.2 km/litre
+267,Renault,Duster,36-50,Urban/Rural,10 km/litre
+268,Renault,Duster,51+,Urban,10 km/litre
+269,Renault,Duster,18-25,Urban/Rural,16 km/litre
+270,Renault,Duster,18-25,Urban/Rural,16 km/litre
+271,Renault,Duster,26-35,Urban,16 km/litre
+272,Renault,Duster,51+,Urban,16 km/litre
+273,Renault,Duster,18-25,Urban,16 km/litre
+274,Renault,Duster,18-25,Rural,16 km/litre
+275,Hyundai,Verna,26-35,Urban,
+276,Hyundai,Verna,26-35,Urban,19.9 km/litre
+277,Hyundai,Verna,26-35,Urban/Rural,19.9 km/litre
+278,Hyundai,Verna,51+,Urban/Rural,
+279,Hyundai,Verna,36-50,Urban,14 km/litre
+280,Hyundai,Verna,18-25,Urban/Rural,
+281,Hyundai,Verna,51+,Rural,
+282,Hyundai,Verna,18-25,Urban/Rural,
+283,Hyundai,Verna,36-50,Urban/Rural,
+284,Hyundai,Verna,51+,Urban,
+285,Hyundai,Verna,26-35,Urban,14 km/litre
+286,Hyundai,Verna,18-25,Urban/Rural,
+287,Hyundai,Verna,36-50,Urban,
+288,Mahindra,Xuv300,18-25,Urban/Rural,
+289,Mahindra,Xuv300,51+,Urban,
+290,Mahindra,Xuv300,18-25,Urban/Rural,
+291,Mahindra,Xuv300,51+,Urban/Rural,
+292,Mahindra,Xuv300,26-35,Urban/Rural,
+293,Mahindra,Xuv300,26-35,Urban,
+294,Mahindra,Xuv300,26-35,Rural,
+295,Mahindra,Xuv300,51+,Urban,
+296,Mahindra,Xuv300,51+,Urban/Rural,
+297,Mahindra,Xuv300,18-25,Rural,
+298,Mahindra,Xuv300,51+,Urban/Rural,
+299,Renault,Lodgy,36-50,Urban/Rural,21.04 km/litre
+300,Renault,Lodgy,26-35,Urban/Rural,21.04 km/litre
+301,Renault,Lodgy,26-35,Urban/Rural,21.04 km/litre
+302,Renault,Lodgy,51+,Urban,21.04 km/litre
+303,Renault,Lodgy,18-25,Urban,21.04 km/litre
+304,Renault,Lodgy,26-35,Urban/Rural,21.04 km/litre
+305,Renault,Lodgy,51+,Rural,21.04 km/litre
+306,Volkswagen,Vento,51+,Urban,12.1 km/litre
+307,Volkswagen,Vento,51+,Rural,
+308,Volkswagen,Vento,18-25,Rural,
+309,Volkswagen,Vento,18-25,Urban/Rural,
+310,Volkswagen,Vento,18-25,Rural,
+311,Volkswagen,Vento,51+,Urban/Rural,
+312,Volkswagen,Vento,18-25,Urban/Rural,
+313,Volkswagen,Vento,51+,Urban/Rural,
+314,Volkswagen,Vento,18-25,Urban,
+315,Volkswagen,Vento,26-35,Urban/Rural,
+316,Volkswagen,Vento,51+,Rural,19 km/litre
+317,Volkswagen,Vento,51+,Urban,17 km/litre
+318,Mahindra,E2O Plus,18-25,Rural,80 km/litre
+319,Mahindra,E2O Plus,51+,Rural,80 km/litre
+320,Tata,Tigor Ev,18-25,Urban/Rural,
+321,Tata,Tigor Ev,36-50,Rural,
+322,Tata,Tigor Ev,26-35,Urban/Rural,
+323,Honda,Brv,51+,Urban/Rural,12 km/litre
+324,Honda,Brv,18-25,Rural,12 km/litre
+325,Honda,Brv,26-35,Urban/Rural,12 km/litre
+326,Honda,Brv,26-35,Urban,12 km/litre
+327,Honda,Brv,51+,Urban/Rural,12 km/litre
+328,Honda,Brv,26-35,Urban/Rural,16.2 km/litre
+329,Honda,Brv,18-25,Urban/Rural,16.2 km/litre
+330,Honda,Brv,51+,Rural,16.2 km/litre
+331,Mahindra,Thar,51+,Rural,
+332,Mahindra,Thar,51+,Urban/Rural,
+333,Mahindra,Thar,51+,Urban,
+334,Force,Gurkha,51+,Urban,14 km/litre
+335,Force,Gurkha,26-35,Urban/Rural,14 km/litre
+336,Force,Gurkha,18-25,Urban/Rural,
+337,Force,Gurkha,26-35,Urban/Rural,
+338,Force,Gurkha,51+,Urban/Rural,14 km/litre
+339,Force,Gurkha,26-35,Urban,14 km/litre
+340,Maruti Suzuki,Xl6,51+,Urban/Rural,
+341,Maruti Suzuki,Xl6,51+,Urban,
+342,Maruti Suzuki,Xl6,18-25,Urban,
+343,Maruti Suzuki,Xl6,18-25,Urban/Rural,
+344,Fiat,Abarth Avventura,51+,Rural,17 km/litre
+345,Mahindra,Tuv300 Plus,51+,Urban/Rural,18.49 km/litre
+346,Mahindra,Tuv300 Plus,18-25,Urban/Rural,18.49 km/litre
+347,Mahindra,Tuv300 Plus,36-50,Rural,18.49 km/litre
+348,Mahindra,Marazzo,36-50,Urban,
+349,Mahindra,Marazzo,51+,Urban/Rural,
+350,Mahindra,Marazzo,36-50,Urban,
+351,Mahindra,Marazzo,18-25,Urban/Rural,
+352,Mahindra,Marazzo,18-25,Urban/Rural,
+353,Mahindra,Marazzo,18-25,Urban/Rural,
+354,Mahindra,Marazzo,18-25,Rural,
+355,Mahindra,Marazzo,36-50,Urban,
+356,Mahindra,Scorpio,51+,Urban/Rural,11.5 km/litre
+357,Mahindra,Scorpio,18-25,Urban/Rural,8.1 km/litre
+358,Mahindra,Scorpio,18-25,Urban/Rural,9.4 km/litre
+359,Mahindra,Scorpio,26-35,Urban/Rural,11.5 km/litre
+360,Mahindra,Scorpio,51+,Urban/Rural,11.5 km/litre
+361,Mahindra,Scorpio,26-35,Urban/Rural,11.5 km/litre
+362,Mahindra,Scorpio,51+,Urban/Rural,11.5 km/litre
+363,Mahindra,Scorpio,51+,Urban/Rural,11.5 km/litre
+364,Mahindra,Scorpio,26-35,Urban,11.5 km/litre
+365,Skoda,Monte Carlo,18-25,Urban/Rural,18 km/litre
+366,Skoda,Monte Carlo,26-35,Urban,12 km/litre
+367,Skoda,Monte Carlo,51+,Urban,18 km/litre
+368,Skoda,Monte Carlo,51+,Rural,12 km/litre
+369,Mahindra,Xuv500,51+,Urban,
+370,Mahindra,Xuv500,18-25,Rural,16 km/litre
+371,Mahindra,Xuv500,18-25,Urban,16 km/litre
+372,Mahindra,Xuv500,51+,Urban,16 km/litre
+373,Mahindra,Xuv500,18-25,Urban/Rural,16 km/litre
+374,Mahindra,Xuv500,18-25,Urban/Rural,16 km/litre
+375,Mahindra,Xuv500,51+,Rural,16 km/litre
+376,Mahindra,Xuv500,51+,Rural,16 km/litre
+377,Mahindra,Xuv500,36-50,Urban/Rural,16 km/litre
+378,Mahindra,Xuv500,18-25,Rural,16 km/litre
+379,Mahindra,Xuv500,26-35,Urban/Rural,16 km/litre
+380,Mahindra,Xuv500,18-25,Urban/Rural,16 km/litre
+381,Mahindra,E Verito,36-50,Urban,110 km/litre
+382,Mahindra,E Verito,26-35,Rural,110 km/litre
+383,Mahindra,E Verito,26-35,Urban,110 km/litre
+384,Tata,Hexa,51+,Urban/Rural,14 km/litre
+385,Tata,Hexa,36-50,Urban/Rural,14 km/litre
+386,Tata,Hexa,36-50,Urban,14 km/litre
+387,Tata,Hexa,18-25,Urban,14 km/litre
+388,Tata,Hexa,51+,Urban/Rural,14 km/litre
+389,Tata,Hexa,26-35,Urban/Rural,14 km/litre
+390,Tata,Hexa,18-25,Urban/Rural,14 km/litre
+391,Toyota,Innova Crysta,51+,Urban/Rural,12 km/litre
+392,Toyota,Innova Crysta,51+,Urban,12 km/litre
+393,Toyota,Innova Crysta,18-25,Urban/Rural,12 km/litre
+394,Toyota,Innova Crysta,26-35,Urban,12 km/litre
+395,Toyota,Innova Crysta,51+,Urban,12 km/litre
+396,Toyota,Innova Crysta,51+,Urban/Rural,11.2 km/litre
+397,Toyota,Innova Crysta,18-25,Urban,11.2 km/litre
+398,Toyota,Innova Crysta,26-35,Urban/Rural,11.2 km/litre
+399,Toyota,Innova Crysta,36-50,Urban/Rural,11.2 km/litre
+400,Toyota,Innova Crysta,51+,Rural,11.2 km/litre
+401,Toyota,Innova Crysta,26-35,Urban/Rural,11.2 km/litre
+402,Toyota,Innova Crysta,51+,Rural,12 km/litre
+403,Toyota,Innova Crysta,51+,Rural,11.2 km/litre
+404,Toyota,Innova Crysta,18-25,Urban,11.2 km/litre
+405,Toyota,Innova Crysta,18-25,Urban,12 km/litre
+406,Toyota,Innova Crysta,18-25,Rural,12 km/litre
+407,Jeep,Compass,18-25,Urban/Rural,
+408,Jeep,Compass,26-35,Urban/Rural,
+409,Jeep,Compass,51+,Urban/Rural,
+410,Jeep,Compass,51+,Urban/Rural,
+411,Jeep,Compass,51+,Rural,
+412,Jeep,Compass,51+,Rural,
+413,Jeep,Compass,51+,Urban,
+414,Jeep,Compass,18-25,Urban,
+415,Jeep,Compass,18-25,Urban/Rural,
+416,Jeep,Compass,51+,Urban/Rural,
+417,Jeep,Compass,18-25,Urban/Rural,
+418,Jeep,Compass,51+,Urban,
+419,Jeep,Compass,26-35,Urban,
+420,Jeep,Compass,51+,Urban/Rural,
+421,Jeep,Compass,26-35,Urban/Rural,
+422,Jeep,Compass,51+,Urban,
+423,Jeep,Compass,26-35,Urban/Rural,
+424,Jeep,Compass,51+,Urban/Rural,
+425,Jeep,Compass,26-35,Rural,
+426,Jeep,Compass,26-35,Rural,
+427,Jeep,Compass,36-50,Urban,
+428,Toyota,Corolla Altis,26-35,Urban,9.5 km/litre
+429,Toyota,Corolla Altis,51+,Urban/Rural,9.5 km/litre
+430,Toyota,Corolla Altis,36-50,Rural,9.5 km/litre
+431,Toyota,Corolla Altis,51+,Urban/Rural,18.2 km/litre
+432,Toyota,Corolla Altis,26-35,Urban,18.4 km/litre
+433,Toyota,Corolla Altis,26-35,Urban,9.5 km/litre
+434,Honda,Civic,18-25,Urban/Rural,
+435,Honda,Civic,26-35,Urban/Rural,
+436,Honda,Civic,51+,Urban,
+437,Honda,Civic,26-35,Rural,
+438,Honda,Civic,51+,Urban/Rural,
+439,Mg,Zs Ev,51+,Urban,
+440,Mg,Zs Ev,51+,Urban/Rural,
+441,Kia,Carnival,51+,Urban/Rural,
+442,Kia,Carnival,51+,Urban/Rural,
+443,Kia,Carnival,51+,Urban,
+444,Kia,Carnival,36-50,Urban,
+445,Kia,Carnival,51+,Rural,
+446,Skoda,Superb,51+,Rural,10.6 km/litre
+447,Skoda,Superb,51+,Urban,10.1 km/litre
+448,Skoda,Superb,51+,Urban/Rural,"11,3 km/litre"
+449,Skoda,Superb,51+,Urban,15.1 km/litre
+450,Skoda,Superb,51+,Rural,15.1 km/litre
+451,Skoda,Superb,51+,Urban/Rural,10.1 km/litre
+452,Skoda,Superb,51+,Urban,15.1 km/litre
+453,Mitsubishi,Outlander,51+,Urban,
+454,Volvo,V40,51+,Urban,"16,8 km/litre"
+455,Volvo,V40,26-35,Urban/Rural,"16,8 km/litre"
+456,,Mercedes-Benz A-Class,51+,Urban/Rural,12.03 km/litre
+457,,Mercedes-Benz A-Class,18-25,Urban/Rural,12.03 km/litre
+458,Toyota,Fortuner,51+,Urban/Rural,12.55 km/litre
+459,Toyota,Fortuner,51+,Urban,"12,55 km/litre"
+460,Toyota,Fortuner,26-35,Rural,"12,55 km/litre"
+461,Toyota,Fortuner,51+,Urban/Rural,"12,55 km/litre"
+462,Toyota,Fortuner,36-50,Urban,7.8 km/litre
+463,Toyota,Fortuner,18-25,Urban/Rural,7.8 km/litre
+464,Toyota,Fortuner,51+,Urban,12.55 km/litre
+465,Mitsubishi,Pajero Sport,51+,Urban/Rural,6.5 km/litre
+466,Mitsubishi,Pajero Sport,26-35,Urban,6.5 km/litre
+467,Mitsubishi,Pajero Sport,18-25,Urban,6.5 km/litre
+468,Mitsubishi,Pajero Sport,36-50,Urban/Rural,6.5 km/litre
+469,Mitsubishi,Pajero Sport,18-25,Rural,6.5 km/litre
+470,Ford,Endeavour,26-35,Rural,7.7 km/litre
+471,Ford,Endeavour,26-35,Rural,9.3 km/litre
+472,Ford,Endeavour,51+,Urban/Rural,9.3 km/litre
+473,Volvo,V40 Cross Country,51+,Urban/Rural,13.05 km/litre
+474,Volvo,V40 Cross Country,51+,Rural,12 km/litre
+475,Mini,Cooper 3 Door,51+,Rural,
+476,Mini,Cooper 3 Door,36-50,Urban/Rural,
+477,,Mercedes-Benz Gla-Class,18-25,Urban/Rural,10 km/litre
+478,,Mercedes-Benz Gla-Class,18-25,Urban,13.4 km/litre
+479,,Mercedes-Benz Gla-Class,26-35,Urban/Rural,13.4 km/litre
+480,,Mercedes-Benz Gla-Class,51+,Urban/Rural,10.2 km/litre
+481,,Mercedes-Benz Gla-Class,18-25,Urban,13.4 km/litre
+482,,Mercedes-Benz Gla-Class,26-35,Urban,10.2 km/litre
+483,Skoda,Kodiaq Scout,18-25,Urban,
+484,Mini,Countryman,26-35,Urban/Rural,
+485,Mini,Countryman,18-25,Urban,
+486,Mini,Countryman,18-25,Urban,
+487,Mini,Countryman,51+,Urban,
+488,Bmw,X1,51+,Urban/Rural,18 km/litre
+489,Bmw,X1,18-25,Urban,18 km/litre
+490,Bmw,X1,26-35,Urban/Rural,18 km/litre
+491,Bmw,X1,36-50,Urban/Rural,
+492,Bmw,X1,51+,Rural,15.71 km/litre
+493,Toyota,Camry,51+,Urban,
+494,Volvo,S60,36-50,Urban,13.2 km/litre
+495,Volvo,S60,36-50,Urban,
+496,,Mercedes-Benz C-Class,51+,Urban,
+497,,Mercedes-Benz C-Class,51+,Urban/Rural,
+498,,Mercedes-Benz C-Class,51+,Urban,
+499,,Mercedes-Benz C-Class,51+,Rural,
+500,,Mercedes-Benz C-Class,51+,Urban,
+501,,Mercedes-Benz C-Class,51+,Urban/Rural,
+502,Bmw,3-Series,18-25,Urban/Rural,
+503,Bmw,3-Series,18-25,Urban/Rural,
+504,Bmw,3-Series,18-25,Urban,
+505,Honda,Accord Hybrid,51+,Urban,21 km/litre
+506,Volvo,S60 Cross Country,51+,Urban/Rural,15.6 km/litre
+507,Toyota,Prius,36-50,Urban,15.1 km/litre
+508,Audi,Q5,36-50,Urban/Rural,12 km/litre
+509,Audi,Q5,51+,Rural,12 km/litre
+510,Audi,Q5,36-50,Urban/Rural,
+511,Audi,Q5,51+,Urban/Rural,
+512,,Mercedes-Benz Glc,51+,Urban,
+513,,Mercedes-Benz Glc,51+,Rural,
+514,Land Rover Rover,Range Evoque,18-25,Rural,
+515,Land Rover Rover,Range Evoque,26-35,Rural,
+516,Land Rover Rover,Range Evoque,26-35,Rural,
+517,Land Rover Rover,Range Evoque,18-25,Rural,
+518,Lexus,Es,26-35,Urban/Rural,17.8 km/litre
+519,,Mercedes-Benz E-Class,18-25,Rural,8.5 km/litre
+520,,Mercedes-Benz E-Class,26-35,Urban/Rural,7.45 km/litre
+521,,Mercedes-Benz E-Class,51+,Urban/Rural,
+522,,Mercedes-Benz E-Class,51+,Urban/Rural,4.5 km/litre
+523,,Mercedes-Benz E-Class,51+,Urban/Rural,8.5 km/litre
+524,,Mercedes-Benz E-Class,51+,Rural,8.5 km/litre
+525,,Mercedes-Benz E-Class,51+,Rural,
+526,,Mercedes-Benz E-Class,51+,Urban/Rural,
+527,Bmw,5-Series,18-25,Urban/Rural,8.4 km/litre
+528,Bmw,5-Series,51+,Urban,13.1 km/litre
+529,Bmw,5-Series,36-50,Urban,15.01 km/litre
+530,Lexus,Nx 300H,51+,Urban/Rural,
+531,Lexus,Nx 300H,51+,Urban/Rural,
+532,Audi,A5,51+,Urban/Rural,
+533,Jaguar,F-Pace,36-50,Urban/Rural,21.27 km/litre
+534,Jaguar,F-Pace,18-25,Urban/Rural,
+535,Bmw,6-Series,26-35,Rural,
+536,Bmw,6-Series,18-25,Urban/Rural,
+537,Bmw,6-Series,51+,Urban,4.45 km/litre
+538,Bmw,6-Series,36-50,Rural,
+539,Volvo,V90 Cross Country,26-35,Urban/Rural,13.2 km/litre
+540,Mitsubishi,Montero,51+,Urban,8.25 km/litre
+541,Audi,A5 Cabriolet,18-25,Urban,
+542,Porsche,Macan,51+,Urban/Rural,
+543,Porsche,Macan,26-35,Urban/Rural,
+544,Land Rover Rover,Range Velar,18-25,Urban/Rural,15.68 km/litre
+545,Land Rover Rover,Range Velar,18-25,Rural,12.63 km/litre
+546,,Mercedes-Benz Gle,18-25,Urban/Rural,
+547,,Mercedes-Benz Gle,36-50,Urban,
+548,,Mercedes-Benz E-Class All Terrain,51+,Urban/Rural,
+549,Land Rover,Discovery,18-25,Urban/Rural,
+550,Land Rover,Discovery,51+,Urban/Rural,
+551,Land Rover,Discovery,51+,Urban,
+552,Land Rover,Discovery,51+,Urban/Rural,
+553,Land Rover,Discovery,36-50,Urban,
+554,Land Rover,Discovery,26-35,Urban/Rural,
+555,Land Rover,Discovery,36-50,Urban/Rural,
+556,Land Rover,Discovery,51+,Urban/Rural,
+557,Volvo,Xc90,51+,Urban/Rural,13.2 km/litre
+558,Volvo,Xc90,18-25,Rural,13.2 km/litre
+559,Volvo,Xc90,18-25,Rural,5 km/litre
+560,Volvo,Xc90,18-25,Urban,
+561,Volvo,Xc90,18-25,Urban,13.2 km/litre
+562,,Mercedes-Benz Cls,18-25,Urban,
+563,Land Rover Rover,Range Sport,18-25,Rural,
+564,Land Rover Rover,Range Sport,18-25,Urban,
+565,Land Rover Rover,Range Sport,51+,Urban/Rural,
+566,Land Rover Rover,Range Sport,26-35,Urban/Rural,
+567,Land Rover Rover,Range Sport,36-50,Urban/Rural,
+568,Land Rover Rover,Range Sport,51+,Urban/Rural,
+569,Land Rover Rover,Range Sport,51+,Urban,
+570,Land Rover Rover,Range Sport,26-35,Urban/Rural,
+571,Land Rover Rover,Range Sport,18-25,Rural,
+572,Land Rover Rover,Range Sport,36-50,Rural,5.9 km/litre
+573,Jaguar,F-Type,36-50,Rural,12.05 km/litre
+574,Jaguar,F-Type,18-25,Urban/Rural,7.81 km/litre
+575,Jaguar,F-Type,51+,Urban/Rural,
+576,Jaguar,F-Type,51+,Rural,
+577,Jaguar,F-Type,51+,Urban/Rural,
+578,Jaguar,F-Type,18-25,Rural,
+579,Jaguar,F-Type,26-35,Urban,
+580,Jaguar,F-Type,18-25,Urban/Rural,
+581,Jaguar,Xj,18-25,Rural,9.5 km/litre
+582,Jaguar,Xj,51+,Urban/Rural,9.5 km/litre
+583,Jaguar,Xj,51+,Urban/Rural,9.5 km/litre
+584,Bmw,X7,26-35,Urban/Rural,
+585,Bmw,X7,51+,Urban/Rural,
+586,Porsche,Cayenne,36-50,Rural,
+587,Porsche,Cayenne,51+,Urban/Rural,
+588,Porsche,Cayenne,26-35,Urban/Rural,
+589,Porsche,Cayenne Coupe,51+,Urban/Rural,
+590,Porsche,Cayenne Coupe,18-25,Urban/Rural,
+591,Maserati,Ghibli,18-25,Urban/Rural,
+592,Maserati,Ghibli,26-35,Urban/Rural,
+593,Maserati,Ghibli,18-25,Rural,
+594,Bmw,M4,36-50,Urban/Rural,7.32 km/litre
+595,Toyota,Land Cruiser,51+,Rural,5.3 km/litre
+596,Bmw,M5,18-25,Urban/Rural,
+597,Audi,Rs7,26-35,Urban,5.6 km/litre
+598,Porsche,911,18-25,Urban/Rural,7.9 km/litre
+599,Porsche,911,51+,Urban/Rural,11.6 km/litre
+600,Land Rover Rover,Range,18-25,Urban,4.4 km/litre
+601,Land Rover Rover,Range,26-35,Urban/Rural,4.4 km/litre
+602,Land Rover Rover,Range,51+,Urban,8.1 km/litre
+603,Land Rover Rover,Range,26-35,Urban/Rural,8 km/litre
+604,Land Rover Rover,Range,18-25,Urban/Rural,
+605,Land Rover Rover,Range,26-35,Urban,
+606,Land Rover Rover,Range,51+,Rural,
+607,Land Rover Rover,Range,51+,Rural,8.69 km/litre
+608,Land Rover Rover,Range,36-50,Urban,
+609,Land Rover Rover,Range,51+,Urban,8.1 km/litre
+610,Lexus,Lc 500H,26-35,Urban/Rural,
+611,,Mercedes-Benz Maybach,26-35,Urban,
+612,,Mercedes-Benz Maybach,18-25,Rural,7.81 km/litre
+613,Porsche,Panamera,26-35,Urban/Rural,7.1 km/litre
+614,Porsche,Panamera,36-50,Urban/Rural,7.1 km/litre
+615,Porsche,Panamera,18-25,Urban/Rural,7.1 km/litre
+616,Lexus,Lx 450D,26-35,Urban/Rural,18 km/litre
+617,,Mercedes-Benz S-Class Cabriolet,18-25,Urban/Rural,5.4 km/litre
+618,Audi,R8,51+,Urban,7.8 km/litre
+619,Lamborghini,Urus,36-50,Rural,
+620,Bentley,Continental Gt,51+,Urban,5.3 km/litre
+621,Ferrari,Portofino,51+,Rural,6 km/litre
+622,Bentley,Bentayga,36-50,Urban/Rural,"9,6 km/litre"
+623,Bentley,Bentayga,51+,Urban,
+624,Aston Martin,Db 11,18-25,Urban/Rural,6 km/litre
+625,Ferrari,458 Speciale,36-50,Urban,6 km/litre
+626,,Rolls-Royce Ghost Series Ii,51+,Urban,10.5 km/litre
+627,,Rolls-Royce Ghost Series Ii,18-25,Urban/Rural,
+628,,Rolls-Royce Wraith,51+,Urban/Rural,4.7 km/litre
+629,Bentley,Mulsanne,26-35,Urban/Rural,6.2 km/litre
+630,,Rolls-Royce Cullinan,26-35,Rural,
+631,,Rolls-Royce Phantom Coupe,18-25,Urban/Rural,10.2 km/litre
+632,Bugatti,Chiron,51+,Urban/Rural,
+633,Bugatti,Chiron,26-35,Urban,
+634,Bajaj,Qute (Re60),36-50,Urban/Rural,
+635,Bajaj,Qute (Re60),18-25,Urban/Rural,
+636,Maruti Suzuki,Alto,36-50,Rural,
+637,Maruti Suzuki,Alto,18-25,Urban/Rural,
+638,Maruti Suzuki,Alto,51+,Urban,
+639,Maruti Suzuki,Alto,26-35,Rural,
+640,Maruti Suzuki,Alto,18-25,Rural,
+641,Maruti Suzuki,Alto,18-25,Urban/Rural,
+642,Maruti Suzuki,Alto,26-35,Urban,
+643,Maruti Suzuki,Alto,26-35,Rural,
+644,Maruti Suzuki,S-Presso,51+,Urban/Rural,
+645,Maruti Suzuki,S-Presso,51+,Urban/Rural,
+646,Maruti Suzuki,S-Presso,26-35,Urban/Rural,
+647,Maruti Suzuki,S-Presso,51+,Rural,
+648,Maruti Suzuki,S-Presso,26-35,Urban/Rural,
+649,Maruti Suzuki,S-Presso,26-35,Rural,
+650,Maruti Suzuki,S-Presso,26-35,Rural,
+651,Maruti Suzuki,S-Presso,18-25,Urban/Rural,
+652,Maruti Suzuki,S-Presso,51+,Urban,
+653,Maruti Suzuki,S-Presso,51+,Urban/Rural,
+654,Maruti Suzuki,Celerio,51+,Urban/Rural,23 km/litre
+655,Maruti Suzuki,Celerio,51+,Urban/Rural,23 km/litre
+656,Maruti Suzuki,Celerio,51+,Urban/Rural,23 km/litre
+657,Maruti Suzuki,Celerio,51+,Urban,23 km/litre
+658,Maruti Suzuki,Celerio,18-25,Urban/Rural,23 km/litre
+659,Maruti Suzuki,Celerio,51+,Urban/Rural,
+660,Maruti Suzuki,Celerio,51+,Urban/Rural,23 km/litre
+661,Maruti Suzuki,Celerio,51+,Urban/Rural,23 km/litre
+662,Maruti Suzuki,Celerio,51+,Urban,23 km/litre
+663,Maruti Suzuki,Celerio,51+,Urban/Rural,23 km/litre
+664,Maruti Suzuki,Celerio,51+,Urban,23 km/litre
+665,Hyundai,Grand I10 Prime,51+,Urban/Rural,24 km/litre
+666,Hyundai,Grand I10 Prime,18-25,Rural,24 km/litre
+667,Hyundai,Grand I10 Prime,18-25,Urban/Rural,18.9 km/litre
+668,Hyundai,Grand I10 Prime,18-25,Urban/Rural,18.9 km/litre
+669,Hyundai,Grand I10 Prime,18-25,Urban/Rural,
+670,Hyundai,Grand I10 Prime,18-25,Urban,
+671,Mahindra,Kuv100 Nxt,51+,Urban/Rural,15.5 km/litre
+672,Mahindra,Kuv100 Nxt,18-25,Urban/Rural,15.5 km/litre
+673,Mahindra,Kuv100 Nxt,51+,Rural,22.25 km/litre
+674,Mahindra,Kuv100 Nxt,26-35,Urban/Rural,22.25 km/litre
+675,Mahindra,Kuv100 Nxt,51+,Rural,22.25 km/litre
+676,Mahindra,Kuv100 Nxt,51+,Urban,15.5 km/litre
+677,Mahindra,Kuv100 Nxt,51+,Rural,15.5 km/litre
+678,Mahindra,Kuv100 Nxt,18-25,Urban/Rural,22.25 km/litre
+679,Mahindra,Kuv100 Nxt,18-25,Urban,15.5 km/litre
+680,Mahindra,Kuv100 Nxt,51+,Urban/Rural,22.25 km/litre
+681,Mahindra,Kuv100 Nxt,51+,Urban,15.5 km/litre
+682,Mahindra,Kuv100 Nxt,18-25,Rural,22.25 km/litre
+683,Mahindra,Kuv100 Nxt,51+,Urban/Rural,15.5 km/litre
+684,Mahindra,Kuv100 Nxt,51+,Rural,15.5 km/litre
+685,Mahindra,Kuv100 Nxt,26-35,Rural,15.5 km/litre
+686,Mahindra,Kuv100 Nxt,18-25,Rural,15.5 km/litre
+687,Mahindra,Kuv100 Nxt,51+,Urban/Rural,15.5 km/litre
+688,Mahindra,Kuv100 Nxt,51+,Urban,15.5 km/litre
+689,Mahindra,Kuv100 Nxt,51+,Urban/Rural,15.5 km/litre
+690,Mahindra,Kuv100 Nxt,51+,Urban/Rural,15.5 km/litre
+691,Mahindra,Kuv100 Nxt,51+,Urban/Rural,15.5 km/litre
+692,Mahindra,Kuv100 Nxt,51+,Rural,15.5 km/litre
+693,Maruti Suzuki,Swift,26-35,Urban/Rural,12.6 km/litre
+694,Maruti Suzuki,Swift,51+,Urban/Rural,
+695,Maruti Suzuki,Swift,26-35,Rural,
+696,Maruti Suzuki,Swift,51+,Urban,
+697,Maruti Suzuki,Swift,51+,Rural,
+698,Maruti Suzuki,Swift,51+,Urban,
+699,Maruti Suzuki,Swift,18-25,Urban,
+700,Maruti Suzuki,Swift,26-35,Urban/Rural,
+701,Maruti Suzuki,Swift,18-25,Rural,
+702,Maruti Suzuki,Swift,18-25,Urban,
+703,Maruti Suzuki,Swift,36-50,Rural,
+704,Maruti Suzuki,Swift,36-50,Urban,
+705,Maruti Suzuki,Swift,18-25,Urban,
+706,Maruti Suzuki,Swift,26-35,Urban/Rural,
+707,Tata,Altroz,51+,Rural,
+708,Tata,Altroz,26-35,Urban,
+709,Tata,Altroz,18-25,Urban/Rural,
+710,Tata,Altroz,51+,Urban,
+711,Tata,Altroz,51+,Urban/Rural,
+712,Tata,Altroz,51+,Urban,
+713,Tata,Altroz,18-25,Urban,
+714,Tata,Altroz,26-35,Rural,
+715,Tata,Altroz,18-25,Rural,
+716,Tata,Altroz,36-50,Urban/Rural,
+717,Icml,Extreme,18-25,Urban/Rural,8.6 km/litre
+718,Icml,Extreme,26-35,Urban/Rural,8.6 km/litre
+719,Icml,Extreme,26-35,Urban/Rural,8.6 km/litre
+720,Icml,Extreme,26-35,Urban,8.6 km/litre
+721,Icml,Extreme,51+,Urban/Rural,8.6 km/litre
+722,Icml,Extreme,51+,Urban/Rural,8.6 km/litre
+723,Icml,Extreme,18-25,Rural,8.6 km/litre
+724,Icml,Extreme,18-25,Rural,8.6 km/litre
+725,Icml,Extreme,18-25,Urban,8.6 km/litre
+726,Icml,Extreme,51+,Rural,8.6 km/litre
+727,Icml,Extreme,36-50,Rural,8.6 km/litre
+728,Tata,Tigor,51+,Urban/Rural,24.12 km/litre
+729,Tata,Tigor,36-50,Urban/Rural,24.12 km/litre
+730,Tata,Tigor,18-25,Urban/Rural,24.12 km/litre
+731,Tata,Tigor,26-35,Rural,24.12 km/litre
+732,Tata,Tigor,26-35,Urban/Rural,24.12 km/litre
+733,Tata,Tigor,51+,Rural,24.12 km/litre
+734,Tata,Zest,51+,Urban,13.2 km/litre
+735,Tata,Zest,36-50,Urban,19.2 km/litre
+736,Tata,Zest,51+,Urban,13.2 km/litre
+737,Tata,Zest,51+,Urban/Rural,13.2 km/litre
+738,Tata,Zest,18-25,Rural,13.2 km/litre
+739,Tata,Zest,26-35,Urban/Rural,19.2 km/litre
+740,Tata,Zest,36-50,Rural,19.2 km/litre
+741,Tata,Zest,51+,Urban/Rural,19.2 km/litre
+742,Tata,Zest,51+,Urban/Rural,19.2 km/litre
+743,Tata,Zest,51+,Urban,19.2 km/litre
+744,Tata,Zest,51+,Rural,19.2 km/litre
+745,Honda,Amaze,51+,Urban/Rural,
+746,Honda,Amaze,51+,Urban,
+747,Honda,Amaze,51+,Rural,
+748,Honda,Amaze,51+,Urban,
+749,Honda,Amaze,26-35,Urban,
+750,Honda,Amaze,36-50,Rural,
+751,Honda,Amaze,51+,Urban/Rural,
+752,Honda,Amaze,51+,Rural,
+753,Honda,Amaze,51+,Urban/Rural,
+754,Honda,Amaze,26-35,Rural,
+755,Honda,Amaze,51+,Rural,
+756,Honda,Amaze,26-35,Urban,
+757,Honda,Amaze,18-25,Urban/Rural,
+758,Honda,Amaze,26-35,Rural,
+759,Honda,Amaze,26-35,Rural,
+760,Honda,Amaze,26-35,Urban/Rural,
+761,Honda,Amaze,26-35,Rural,
+762,Honda,Amaze,18-25,Urban/Rural,
+763,Honda,Amaze,18-25,Urban/Rural,
+764,Honda,Amaze,51+,Urban/Rural,
+765,Maruti Suzuki,Gypsy,18-25,Urban/Rural,10.2 km/litre
+766,Maruti Suzuki,Gypsy,51+,Urban,10.2 km/litre
+767,Hyundai,Venue,51+,Urban,
+768,Hyundai,Venue,26-35,Urban,
+769,Hyundai,Venue,51+,Urban/Rural,
+770,Hyundai,Venue,26-35,Rural,
+771,Hyundai,Venue,26-35,Urban,
+772,Hyundai,Venue,51+,Urban,
+773,Hyundai,Venue,26-35,Urban/Rural,
+774,Hyundai,Venue,26-35,Rural,
+775,Hyundai,Venue,51+,Urban,
+776,Hyundai,Venue,51+,Rural,
+777,Hyundai,Venue,51+,Urban/Rural,
+778,Hyundai,Venue,51+,Urban,
+779,Hyundai,Venue,51+,Urban/Rural,
+780,Tata,Nexon,51+,Urban,
+781,Tata,Nexon,18-25,Urban/Rural,
+782,Tata,Nexon,51+,Urban/Rural,
+783,Tata,Nexon,26-35,Urban/Rural,
+784,Tata,Nexon,18-25,Urban,
+785,Tata,Nexon,26-35,Urban/Rural,
+786,Tata,Nexon,18-25,Urban/Rural,
+787,Tata,Nexon,18-25,Urban/Rural,
+788,Tata,Nexon,26-35,Urban/Rural,
+789,Tata,Nexon,36-50,Urban/Rural,
+790,Tata,Nexon,18-25,Rural,
+791,Tata,Nexon,26-35,Urban/Rural,
+792,Tata,Nexon,18-25,Urban/Rural,
+793,Tata,Nexon,51+,Urban,
+794,Tata,Nexon,51+,Urban,
+795,Tata,Nexon,18-25,Urban/Rural,
+796,Tata,Nexon,51+,Urban/Rural,
+797,Tata,Nexon,36-50,Rural,
+798,Tata,Nexon,18-25,Urban/Rural,
+799,Tata,Nexon,18-25,Urban/Rural,
+800,Tata,Nexon,18-25,Rural,
+801,Tata,Nexon,26-35,Urban,
+802,Tata,Nexon,51+,Urban,
+803,Tata,Nexon,51+,Urban,
+804,Fiat,Linea,51+,Rural,"11,3 km/litre"
+805,Fiat,Linea,51+,Urban/Rural,17.2 km/litre
+806,Fiat,Linea,18-25,Urban/Rural,17.2 km/litre
+807,Fiat,Linea,51+,Urban,17.2 km/litre
+808,Fiat,Linea,51+,Urban,"11,3 km/litre"
+809,Maruti Suzuki,Ertiga,26-35,Urban,
+810,Maruti Suzuki,Ertiga,36-50,Urban,
+811,Maruti Suzuki,Ertiga,51+,Urban/Rural,
+812,Maruti Suzuki,Ertiga,51+,Urban/Rural,
+813,Maruti Suzuki,Ertiga,51+,Urban,
+814,Maruti Suzuki,Ertiga,18-25,Rural,
+815,Maruti Suzuki,Ertiga,18-25,Urban/Rural,
+816,Maruti Suzuki,Ertiga,51+,Urban,
+817,Maruti Suzuki,Ertiga,51+,Urban/Rural,
+818,Maruti Suzuki,Ertiga,51+,Urban,
+819,Maruti Suzuki,Baleno Rs,51+,Urban/Rural,21.4 km/litre
+820,Honda,Wr-V,26-35,Urban/Rural,25.5 km/litre
+821,Honda,Wr-V,51+,Urban/Rural,17.5 km/litre
+822,Honda,Wr-V,51+,Urban/Rural,25.5 km/litre
+823,Honda,Wr-V,26-35,Rural,17.5 km/litre
+824,Honda,Wr-V,51+,Rural,25.5 km/litre
+825,Honda,Wr-V,51+,Urban/Rural,17.5 km/litre
+826,Honda,Wr-V,51+,Urban,25.5 km/litre
+827,Honda,Wr-V,18-25,Rural,17.5 km/litre
+828,Honda,Wr-V,51+,Urban,25.5 km/litre
+829,Mahindra,Tuv300,51+,Urban/Rural,18.49 km/litre
+830,Mahindra,Tuv300,36-50,Urban,18.49 km/litre
+831,Mahindra,Tuv300,26-35,Urban,18.49 km/litre
+832,Mahindra,Tuv300,26-35,Urban/Rural,18.49 km/litre
+833,Mahindra,Tuv300,51+,Urban,18.49 km/litre
+834,Mahindra,Tuv300,51+,Urban/Rural,18.49 km/litre
+835,Mahindra,Tuv300,18-25,Urban,18.49 km/litre
+836,Maruti Suzuki,S-Cross,51+,Urban/Rural,23.65 km/litre
+837,Maruti Suzuki,S-Cross,26-35,Urban/Rural,23.65 km/litre
+838,Maruti Suzuki,S-Cross,51+,Urban/Rural,23.65 km/litre
+839,Maruti Suzuki,S-Cross,26-35,Urban/Rural,23.65 km/litre
+840,Renault,Captur,18-25,Rural,
+841,Renault,Captur,18-25,Urban/Rural,
+842,Renault,Captur,51+,Urban/Rural,
+843,Renault,Captur,51+,Urban/Rural,
+844,Mahindra,Xylo,36-50,Urban/Rural,10.7 km/litre
+845,Mahindra,Xylo,51+,Urban/Rural,10.3 km/litre
+846,Mahindra,Xylo,26-35,Urban,11.4 km/litre
+847,Mahindra,Xylo,26-35,Urban,11.4 km/litre
+848,Mahindra,Xylo,26-35,Urban,11.4 km/litre
+849,Kia,Seltos,26-35,Urban/Rural,
+850,Kia,Seltos,51+,Urban,
+851,Kia,Seltos,51+,Urban,
+852,Kia,Seltos,51+,Urban,
+853,Kia,Seltos,51+,Rural,
+854,Kia,Seltos,51+,Urban/Rural,
+855,Kia,Seltos,18-25,Rural,
+856,Kia,Seltos,18-25,Urban,
+857,Kia,Seltos,51+,Rural,
+858,Kia,Seltos,51+,Urban,
+859,Kia,Seltos,26-35,Urban/Rural,
+860,Kia,Seltos,18-25,Rural,
+861,Kia,Seltos,51+,Urban,
+862,Kia,Seltos,51+,Urban/Rural,
+863,Kia,Seltos,26-35,Urban,
+864,Kia,Seltos,18-25,Urban/Rural,
+865,Nissan,Terrano,26-35,Rural,17.1 km/litre
+866,Nissan,Terrano,18-25,Urban,16 km/litre
+867,Nissan,Terrano,18-25,Urban,10.1 km/litre
+868,Nissan,Terrano,18-25,Rural,17.1 km/litre
+869,Nissan,Terrano,51+,Urban/Rural,16 km/litre
+870,Nissan,Terrano,36-50,Rural,17.1 km/litre
+871,Tata,Safari Storme,26-35,Rural,10.8 km/litre
+872,Tata,Safari Storme,51+,Urban/Rural,10.8 km/litre
+873,Tata,Safari Storme,26-35,Urban,10.8 km/litre
+874,Tata,Safari Storme,18-25,Rural,"13,93 km/litre"
+875,Mg,Hector,51+,Urban,
+876,Mg,Hector,18-25,Urban/Rural,
+877,Mg,Hector,18-25,Rural,
+878,Mg,Hector,51+,Urban/Rural,
+879,Mg,Hector,36-50,Urban,
+880,Mg,Hector,51+,Urban/Rural,
+881,Mg,Hector,36-50,Urban/Rural,
+882,Mg,Hector,26-35,Urban,
+883,Mg,Hector,18-25,Urban/Rural,
+884,Mg,Hector,36-50,Urban,
+885,Mg,Hector,51+,Urban/Rural,
+886,Tata,Nexon Ev,18-25,Urban/Rural,
+887,Tata,Nexon Ev,51+,Urban/Rural,
+888,Tata,Nexon Ev,51+,Urban/Rural,
+889,Hyundai,Elantra,51+,Urban,13.1 km/litre
+890,Hyundai,Elantra,26-35,Urban,13.1 km/litre
+891,Hyundai,Elantra,51+,Urban,13.1 km/litre
+892,Hyundai,Elantra,26-35,Urban/Rural,13.1 km/litre
+893,Hyundai,Tucson,26-35,Urban/Rural,"16,38 km/litre"
+894,Hyundai,Tucson,51+,Rural,"13,3 km/litre"
+895,Hyundai,Tucson,18-25,Rural,"16,38 km/litre"
+896,Hyundai,Tucson,51+,Rural,"13,3 km/litre"
+897,Hyundai,Tucson,51+,Urban/Rural,16.38 km/litre
+898,Hyundai,Tucson,51+,Urban,13.3 km/litre
+899,Hyundai,Tucson,51+,Urban,13.3 km/litre
+900,Hyundai,Tucson,36-50,Rural,16.38 km/litre
+901,Volkswagen,Passat,36-50,Rural,
+902,Volkswagen,Passat,26-35,Rural,
+903,Volkswagen,Passat,18-25,Urban,
+904,Volkswagen,Passat,51+,Urban/Rural,
+905,Isuzu,Mu-X,18-25,Urban/Rural,13.8 km/litre
+906,Isuzu,Mu-X,36-50,Urban,13.8 km/litre
+907,Volkswagen,Tiguan,51+,Urban,
+908,Volkswagen,Tiguan,26-35,Rural,
+909,Skoda,Superb Sportline,51+,Rural,11.3 km/litre
+910,Skoda,Superb Sportline,26-35,Urban/Rural,15.1 km/litre
+911,,Mercedes-Benz B-Class,18-25,Urban/Rural,9.5 km/litre
+912,,Mercedes-Benz B-Class,26-35,Urban,11.5 km/litre
+913,,Mercedes-Benz B-Class,51+,Rural,9.5 km/litre
+914,,Mercedes-Benz B-Class,51+,Urban/Rural,11.5 km/litre
+915,Skoda,Kodiaq,26-35,Rural,15.1 km/litre
+916,Skoda,Kodiaq,26-35,Rural,15.1 km/litre
+917,Skoda,Kodiaq,51+,Rural,15.1 km/litre
+918,Audi,Q3,36-50,Urban/Rural,12 km/litre
+919,Audi,Q3,51+,Urban,12 km/litre
+920,Audi,Q3,26-35,Rural,12 km/litre
+921,Audi,Q3,18-25,Urban/Rural,12 km/litre
+922,Mini,Convertible,51+,Urban,
+923,Mini,Clubman,26-35,Urban,12.3 km/litre
+924,Mini,John Cooper Works,51+,Urban,
+925,Jaguar,Xf,18-25,Urban/Rural,5.7 km/litre
+926,Jaguar,Xf,51+,Urban/Rural,5.7 km/litre
+927,Jaguar,Xf,36-50,Urban/Rural,5.7 km/litre
+928,Jaguar,Xf,51+,Urban,5.7 km/litre
+929,Jaguar,Xf,26-35,Urban/Rural,5.7 km/litre
+930,Audi,A6,51+,Urban/Rural,
+931,Audi,A6,51+,Rural,
+932,Land Rover,Discovery Sport,18-25,Rural,
+933,Land Rover,Discovery Sport,36-50,Rural,
+934,Volvo,Xc60,18-25,Urban,11.7 km/litre
+935,Jeep,Wrangler,36-50,Rural,17.5 km/litre
+936,Bmw,Z4 Roadster,51+,Urban/Rural,
+937,Bmw,Z4 Roadster,51+,Urban/Rural,
+938,Audi,Q7,51+,Urban/Rural,9.3 km/litre
+939,Audi,Q7,18-25,Urban/Rural,9.3 km/litre
+940,Audi,Q7,26-35,Urban/Rural,
+941,Audi,Q7,51+,Urban/Rural,
+942,Audi,Q7,51+,Rural,9.3 km/litre
+943,Audi,Q7,51+,Urban/Rural,
+944,Audi,S5,36-50,Urban,
+945,Ford,Mustang,51+,Urban,10 km/litre
+946,,Mercedes-Benz E-Class Cabriolet,18-25,Urban/Rural,4.5 km/litre
+947,Porsche,718,36-50,Urban/Rural,9 km/litre
+948,Porsche,718,51+,Urban/Rural,9 km/litre
+949,Toyota,Land Cruiser Prado,36-50,Urban,7 km/litre
+950,Audi,Rs5,26-35,Urban/Rural,
+951,Audi,Q8,51+,Urban,
+952,Maserati,Levante,26-35,Urban/Rural,5.2 km/litre
+953,Maserati,Levante,26-35,Urban,5.2 km/litre
+954,Maserati,Levante,51+,Urban/Rural,5.2 km/litre
+955,Audi,A8 L,18-25,Urban/Rural,
+956,Maserati,Quattroporte,26-35,Urban/Rural,5.2 km/litre
+957,Maserati,Grancabrio,26-35,Urban/Rural,4 km/litre
+958,,Mercedes-Benz Amg-Gt,51+,Urban/Rural,5 km/litre
+959,,Mercedes-Benz Amg-Gt,51+,Urban/Rural,5 km/litre
+960,,Mercedes-Benz Amg-Gt,36-50,Urban/Rural,5 km/litre
+961,,Mercedes-Benz Amg Gt 4-Door Coupe,18-25,Urban,
+962,Lamborghini,Huracan,51+,Rural,5.6 km/litre
+963,Lamborghini,Huracan,18-25,Urban/Rural,5.8 km/litre
+964,Lamborghini,Huracan,18-25,Rural,10.6 km/litre
+965,Lamborghini,Huracan,51+,Rural,5.6 km/litre
+966,Lamborghini,Huracan,51+,Rural,5.8 km/litre
+967,Lamborghini,Huracan,51+,Urban,5.6 km/litre
+968,Lamborghini,Huracan,36-50,Urban/Rural,5.6 km/litre
+969,Lamborghini,Huracan,51+,Urban/Rural,5.6 km/litre
+970,Lamborghini,Huracan,36-50,Urban/Rural,5.6 km/litre
+971,Ferrari,488 Gtb,18-25,Urban/Rural,3.2 km/litre
+972,Ferrari,488 Gtb,36-50,Urban/Rural,3.2 km/litre
+973,Ferrari,Gtc4 Lusso,51+,Urban,
+974,Ferrari,Gtc4 Lusso,51+,Urban,
+975,Lamborghini,Aventador,18-25,Rural,3 km/litre
+976,Lamborghini,Aventador,51+,Urban,3.6 km/litre
+977,Lamborghini,Aventador,51+,Urban/Rural,3.6 km/litre
+978,,Rolls-Royce Dawn,51+,Urban/Rural,7.9 km/litre
+979,,Rolls-Royce Drophead Coupe,18-25,Urban/Rural,4.38 km/litre
+980,Maruti Suzuki,Omni,26-35,Rural,13 km/litre
+981,Maruti Suzuki,Omni,36-50,Rural,13 km/litre
+982,,Go+,18-25,Urban/Rural,12.8 km/litre
+983,,Go+,51+,Urban/Rural,12.8 km/litre
+984,,Go+,51+,Urban/Rural,16.3 km/litre
+985,,Go+,18-25,Urban,20.62 km/litre
+986,,Go+,18-25,Urban/Rural,20.62 km/litre
+987,,Go+,51+,Rural,12.8 km/litre
+988,,Go+,18-25,Rural,16.3 km/litre
+989,,Go+,51+,Urban/Rural,12.8 km/litre
+990,,Go+,18-25,Rural,16.3 km/litre
+991,Fiat,Punto Evo Pure,26-35,Urban/Rural,12 km/litre
+992,Fiat,Punto Evo Pure,26-35,Urban/Rural,
+993,Ford,Figo,51+,Urban/Rural,
+994,Ford,Figo,18-25,Urban/Rural,17 km/litre
+995,Ford,Figo,36-50,Urban/Rural,
+996,Ford,Figo,51+,Urban/Rural,
+997,Ford,Figo,51+,Urban,
+998,Ford,Figo,36-50,Urban/Rural,
+999,Maruti Suzuki,Baleno,36-50,Rural,27.39 km/litre
+1000,Maruti Suzuki,Baleno,51+,Urban/Rural,27.39 km/litre
+1001,Maruti Suzuki,Baleno,26-35,Urban/Rural,27.39 km/litre
+1002,Maruti Suzuki,Baleno,26-35,Urban/Rural,27.39 km/litre
+1003,Maruti Suzuki,Baleno,51+,Urban,21.4 km/litre
+1004,Maruti Suzuki,Baleno,18-25,Rural,21.4 km/litre
+1005,Maruti Suzuki,Baleno,51+,Urban/Rural,21.4 km/litre
+1006,Maruti Suzuki,Baleno,18-25,Rural,21.4 km/litre
+1007,Maruti Suzuki,Baleno,51+,Urban,21.4 km/litre
+1008,Maruti Suzuki,Baleno,18-25,Urban,21.4 km/litre
+1009,Maruti Suzuki,Baleno,18-25,Urban,21.4 km/litre
+1010,Maruti Suzuki,Baleno,36-50,Urban,21.4 km/litre
+1011,Maruti Suzuki,Baleno,51+,Urban,21.4 km/litre
+1012,Hyundai,Grand I10,51+,Rural,18.9 km/litre
+1013,Hyundai,Grand I10,51+,Urban,18.9 km/litre
+1014,Hyundai,Grand I10,26-35,Rural,18.9 km/litre
+1015,Hyundai,Grand I10,18-25,Urban,18.9 km/litre
+1016,Hyundai,Grand I10,26-35,Urban/Rural,18.9 km/litre
+1017,Hyundai,Grand I10,18-25,Urban,
+1018,Fiat,Linea Classic,18-25,Urban/Rural,16.2 km/litre
+1019,Fiat,Linea Classic,51+,Urban,11.4 km/litre
+1020,Fiat,Linea Classic,51+,Urban,16.2 km/litre
+1021,Nissan,Sunny,51+,Urban,10.6 km/litre
+1022,Nissan,Sunny,51+,Urban/Rural,10.6 km/litre
+1023,Nissan,Sunny,51+,Urban/Rural,18 km/litre
+1024,Nissan,Sunny,26-35,Urban,18 km/litre
+1025,Nissan,Sunny,51+,Urban,18 km/litre
+1026,Nissan,Sunny,18-25,Urban,10.6 km/litre
+1027,Nissan,Sunny,51+,Urban,18 km/litre
+1028,Mahindra,Bolero,18-25,Rural,9.4 km/litre
+1029,Mahindra,Bolero,51+,Urban/Rural,12.3 km/litre
+1030,Mahindra,Bolero,26-35,Urban,12.3 km/litre
+1031,Mahindra,Bolero,26-35,Urban/Rural,9.4 km/litre
+1032,Mahindra,Bolero,26-35,Urban/Rural,9.4 km/litre
+1033,Maruti Suzuki,Ciaz,51+,Urban,28.09 km/litre
+1034,Maruti Suzuki,Ciaz,51+,Rural,28.09 km/litre
+1035,Maruti Suzuki,Ciaz,51+,Rural,28.09 km/litre
+1036,Maruti Suzuki,Ciaz,26-35,Urban/Rural,28.09 km/litre
+1037,Maruti Suzuki,Ciaz,18-25,Urban,
+1038,Maruti Suzuki,Ciaz,18-25,Urban/Rural,
+1039,Maruti Suzuki,Ciaz,51+,Urban,21.56 km/litre
+1040,Maruti Suzuki,Ciaz,26-35,Urban,
+1041,Maruti Suzuki,Ciaz,18-25,Urban,
+1042,Maruti Suzuki,Ciaz,51+,Urban/Rural,
+1043,Maruti Suzuki,Ciaz,51+,Urban,
+1044,Maruti Suzuki,Ciaz,26-35,Urban/Rural,26.82 km/litre
+1045,Maruti Suzuki,Ciaz,18-25,Urban/Rural,26032 km/litre
+1046,Maruti Suzuki,Ciaz,51+,Rural,26.32 km/litre
+1047,Skoda,Rapid,18-25,Urban/Rural,12 km/litre
+1048,Skoda,Rapid,51+,Urban/Rural,14.5 km/litre
+1049,Skoda,Rapid,51+,Rural,12 km/litre
+1050,Skoda,Rapid,18-25,Urban,14.5 km/litre
+1051,Skoda,Rapid,26-35,Urban,14.5 km/litre
+1052,Skoda,Rapid,36-50,Rural,12 km/litre
+1053,Skoda,Rapid,18-25,Urban/Rural,18 km/litre
+1054,Skoda,Rapid,51+,Urban,18 km/litre
+1055,Skoda,Rapid,36-50,Rural,12 km/litre
+1056,Skoda,Rapid,51+,Urban,12 km/litre
+1057,Skoda,Rapid,51+,Urban/Rural,12 km/litre
+1058,Skoda,Rapid,26-35,Urban/Rural,12 km/litre
+1059,Skoda,Rapid,51+,Urban,18 km/litre
+1060,Skoda,Rapid,26-35,Urban/Rural,18 km/litre
+1061,Fiat,Abarth Punto,36-50,Urban,17 km/litre
+1062,Hyundai,Creta,18-25,Urban/Rural,21.38 km/litre
+1063,Hyundai,Creta,18-25,Rural,15.29 km/litre
+1064,Hyundai,Creta,18-25,Urban/Rural,15.29 km/litre
+1065,Hyundai,Creta,51+,Rural,15.29 km/litre
+1066,Hyundai,Creta,26-35,Urban,15.29 km/litre
+1067,Hyundai,Creta,26-35,Urban,15.29 km/litre
+1068,Hyundai,Creta,51+,Rural,21.38 km/litre
+1069,Hyundai,Creta,51+,Urban/Rural,17.01 km/litre
+1070,Hyundai,Creta,18-25,Urban/Rural,17.01 km/litre
+1071,Hyundai,Creta,51+,Urban/Rural,17.01 km/litre
+1072,Hyundai,Creta,26-35,Urban/Rural,17.01 km/litre
+1073,Hyundai,Creta,18-25,Urban,17.01 km/litre
+1074,Hyundai,Creta,51+,Urban/Rural,15.29 km/litre
+1075,Hyundai,Creta,51+,Urban,17.01 km/litre
+1076,Hyundai,Creta,26-35,Urban/Rural,21.38 km/litre
+1077,Hyundai,Creta,51+,Rural,15.29 km/litre
+1078,Hyundai,Creta,18-25,Urban,15.29 km/litre
+1079,Hyundai,Creta,51+,Urban/Rural,
+1080,Tata,Harrier,18-25,Urban,
+1081,Tata,Harrier,18-25,Urban,
+1082,Tata,Harrier,26-35,Urban/Rural,
+1083,Tata,Harrier,18-25,Urban/Rural,
+1084,Tata,Harrier,36-50,Urban,
+1085,Tata,Harrier,26-35,Urban/Rural,
+1086,Isuzu,Dmax V-Cross,51+,Rural,7.3 km/litre
+1087,Isuzu,Dmax V-Cross,26-35,Urban,7.3 km/litre
+1088,Isuzu,Dmax V-Cross,36-50,Urban/Rural,7.3 km/litre
+1089,Jeep,Compass Trailhawk,51+,Urban,
+1090,Jeep,Compass Trailhawk,36-50,Rural,
+1091,Honda,Cr-V,26-35,Urban,
+1092,Honda,Cr-V,26-35,Rural,
+1093,Honda,Cr-V,36-50,Rural,
+1094,,Mercedes-Benz Cla-Class,26-35,Rural,11.04 km/litre
+1095,,Mercedes-Benz Cla-Class,51+,Urban/Rural,13.9 km/litre
+1096,,Mercedes-Benz Cla-Class,18-25,Urban/Rural,13.9 km/litre
+1097,Mini,Cooper 5 Door,36-50,Urban/Rural,10.3 km/litre
+1098,Audi,A4,36-50,Urban/Rural,
+1099,Audi,A4,51+,Urban,
+1100,Audi,A3 Cabriolet,26-35,Urban/Rural,19.2 km/litre
+1101,Volvo,S90,51+,Urban,"11,44 km/litre"
+1102,,Mercedes-Benz C-Class Cabriolet,36-50,Urban/Rural,
+1103,Land Rover Rover,Range Evoque Convertible,51+,Urban,15.68 km/litre
+1104,Jeep,Grand Cherokee,51+,Urban,12.8 km/litre
+1105,Jeep,Grand Cherokee,18-25,Urban,12.8 km/litre
+1106,Jeep,Grand Cherokee,26-35,Rural,12.8 km/litre
+1107,Jeep,Grand Cherokee,26-35,Urban/Rural,
+1108,,Mercedes-Benz Gls,51+,Urban/Rural,6.5 km/litre
+1109,,Mercedes-Benz Gls,51+,Rural,9 km/litre
+1110,,Mercedes-Benz Gls,36-50,Rural,9 km/litre
+1111,,Mercedes-Benz Gls,51+,Urban/Rural,9 km/litre
+1112,,Mercedes-Benz Gls,36-50,Rural,6.5 km/litre
+1113,Bmw,7-Series,18-25,Urban/Rural,13.5 km/litre
+1114,Bmw,7-Series,26-35,Urban,13.5 km/litre
+1115,Bmw,7-Series,36-50,Urban/Rural,13.5 km/litre
+1116,Bmw,7-Series,51+,Urban,
+1117,Bmw,7-Series,51+,Rural,
+1118,Bmw,7-Series,26-35,Urban,
+1119,,Mercedes-Benz G-Class,18-25,Rural,
+1120,,Mercedes-Benz G-Class,26-35,Urban,
+1121,Lexus,Ls 500H,18-25,Urban,
+1122,Lexus,Ls 500H,51+,Rural,
+1123,Lexus,Ls 500H,36-50,Rural,
+1124,Lexus,Lx 570,26-35,Rural,18 km/litre
+1125,Bentley,Flying Spur,51+,Urban,2 km/litre
+1126,Bentley,Flying Spur,18-25,Urban/Rural,2 km/litre
+1127,Ferrari,458 Spider,51+,Rural,3.2 km/litre
+1128,,Rolls-Royce Phantom,51+,Rural,10.2 km/litre
+1129,,Rolls-Royce Phantom,18-25,Urban/Rural,10.2 km/litre
+1130,Maruti Suzuki,Alto 800 Tour,51+,Rural,18 km/litre
+1131,Maruti Suzuki,Alto 800 Tour,26-35,Urban/Rural,18 km/litre
+1132,Hyundai,Grand I10 Nios,36-50,Rural,20.7 km/litre
+1133,Hyundai,Grand I10 Nios,36-50,Urban,
+1134,Hyundai,Grand I10 Nios,18-25,Urban,
+1135,Hyundai,Grand I10 Nios,26-35,Urban,
+1136,Hyundai,Grand I10 Nios,26-35,Urban,
+1137,Hyundai,Grand I10 Nios,18-25,Rural,
+1138,Hyundai,Grand I10 Nios,18-25,Rural,
+1139,Hyundai,Grand I10 Nios,51+,Urban,
+1140,Hyundai,Grand I10 Nios,51+,Urban/Rural,
+1141,Hyundai,Grand I10 Nios,51+,Urban/Rural,
+1142,Hyundai,Xcent,36-50,Urban,15.7 km/litre
+1143,Hyundai,Xcent,18-25,Urban,15.7 km/litre
+1144,Hyundai,Xcent,51+,Rural,15.7 km/litre
+1145,Hyundai,Xcent,18-25,Urban,15.7 km/litre
+1146,Hyundai,Xcent,18-25,Rural,19 km/litre
+1147,Hyundai,Xcent,36-50,Urban/Rural,19 km/litre
+1148,Hyundai,Xcent,51+,Urban,19 km/litre
+1149,Hyundai,Xcent,18-25,Urban/Rural,19 km/litre
+1150,Hyundai,Xcent,51+,Rural,19 km/litre
+1151,Nissan,Micra,51+,Urban/Rural,
+1152,Nissan,Micra,51+,Urban,
+1153,Nissan,Micra,36-50,Urban/Rural,
+1154,Nissan,Micra,51+,Urban,19.5 km/litre
+1155,Mahindra,Nuvosport,26-35,Urban,13.8 km/litre
+1156,Mahindra,Nuvosport,51+,Rural,13.8 km/litre
+1157,Mahindra,Nuvosport,26-35,Urban/Rural,13.8 km/litre
+1158,Mahindra,Nuvosport,36-50,Urban,13.8 km/litre
+1159,Mahindra,Nuvosport,18-25,Rural,12.8 km/litre
+1160,Mahindra,Nuvosport,51+,Urban/Rural,12.8 km/litre
+1161,Nissan,Kicks,51+,Urban/Rural,
+1162,Nissan,Kicks,26-35,Urban,
+1163,Nissan,Kicks,51+,Rural,
+1164,Nissan,Kicks,18-25,Rural,
+1165,Nissan,Kicks,18-25,Rural,
+1166,Nissan,Kicks,51+,Urban,
+1167,Nissan,Kicks,51+,Urban/Rural,
+1168,Nissan,Kicks,51+,Urban/Rural,
+1169,Tata,Winger,26-35,Urban/Rural,
+1170,Hyundai,Kona Electric,18-25,Rural,
+1171,Audi,A3,36-50,Urban/Rural,18 km/litre
+1172,Audi,A3,36-50,Urban,18 km/litre
+1173,Audi,A3,18-25,Rural,12.4 km/litre
+1174,Audi,A3,36-50,Urban/Rural,12.4 km/litre
+1175,Volvo,Xc40,51+,Urban/Rural,
+1176,Volvo,Xc40,18-25,Rural,
+1177,Volvo,Xc40,26-35,Urban/Rural,
+1178,Bmw,X3,,,16 km/litre
+1179,Bmw,X3,,,16 km/litre
+1180,Bmw,X3,,,16 km/litre
+1181,,Mercedes-Benz V-Class,,,
+1182,,Mercedes-Benz V-Class,,,
+1183,,Mercedes-Benz V-Class,,,
+1184,Bmw,M2 Competition,,,12.5-12.7 km/litre
+1185,,Mercedes-Benz S-Class,,,9 km/litre
+1186,,Mercedes-Benz S-Class,,,5.4 km/litre
+1187,,Mercedes-Benz S-Class,,,5.4 km/litre
+1188,Nissan,Gtr,,,9 km/litre
+1189,Aston Martin,Rapide,,,9.1 km/litre
+1190,Maruti Suzuki R,Wagon,,,
+1191,Maruti Suzuki R,Wagon,,,
+1192,Maruti Suzuki R,Wagon,,,
+1193,Maruti Suzuki R,Wagon,,,
+1194,Maruti Suzuki R,Wagon,,,
+1195,Maruti Suzuki R,Wagon,,,
+1196,Maruti Suzuki R,Wagon,,,
+1197,Maruti Suzuki R,Wagon,,,
+1198,Maruti Suzuki R,Wagon,,,
+1199,Maruti Suzuki R,Wagon,,,
+1200,Maruti Suzuki R,Wagon,,,
+1201,Maruti Suzuki R,Wagon,,,
+1202,Maruti Suzuki R,Wagon,,,
+1203,Maruti Suzuki R,Wagon,,,
+1204,Tata,Tiago Nrg,,,
+1205,Tata,Tiago Nrg,,,
+1206,Tata,Tiago Nrg,,,
+1207,Toyota,Yaris,,,
+1208,Toyota,Yaris,,,
+1209,Toyota,Yaris,,,
+1210,Toyota,Yaris,,,
+1211,Toyota,Yaris,,,
+1212,Toyota,Yaris,,,
+1213,Toyota,Yaris,,,
+1214,Toyota,Yaris,,,
+1215,Toyota,Yaris,,,
+1216,Toyota,Yaris,,,
+1217,Toyota,Yaris,,,
+1218,Toyota,Yaris,,,
+1219,Toyota,Yaris,,,
+1220,Toyota,Yaris,,,
+1221,Skoda,Octavia,,,
+1222,Skoda,Octavia,,,
+1223,Skoda,Octavia,,,
+1224,Skoda,Octavia,,,
+1225,Skoda,Octavia,,,
+1226,Skoda,Octavia,,,
+1227,Skoda,Octavia,,,
+1228,Skoda,Octavia,,,
+1229,Skoda,Octavia,,,
+1230,Skoda,Octavia,,,
+1231,Skoda,Octavia,,,
+1232,Skoda,Octavia,,,
+1233,Dc,Avanti,,,8 km/litre
+1234,Bmw,X4,,,
+1235,Bmw,X4,,,
+1236,Bmw,X4,,,
+1237,Lexus,Rx 450H,,,18.8 km/litre
+1238,Aston Martin,Vantage,,,5 km/litre
+1239,Fiat,Punto Evo,,,15.8 km/litre
+1240,Fiat,Punto Evo,,,"21,2 km/litre"
+1241,Fiat,Punto Evo,,,"21,2 km/litre"
+1242,Fiat,Punto Evo,,,"21,2 km/litre"
+1243,Honda,City,,,14.3 km/litre
+1244,Honda,City,,,14.3 km/litre
+1245,Honda,City,,,14.3 km/litre
+1246,Honda,City,,,14.3 km/litre
+1247,Honda,City,,,22.6 km/litre
+1248,Honda,City,,,22.6 km/litre
+1249,Honda,City,,,22.6 km/litre
+1250,Honda,City,,,22.6 km/litre
+1251,Honda,City,,,18 km/litre
+1252,Honda,City,,,14.3 km/litre
+1253,Jaguar,Xe,,,
+1254,Jaguar,Xe,,,
+1255,Jaguar,Xe,,,
+1256,Jaguar,Xe,,,
+1257,Maserati,Granturismo,,,4.6 km/litre
+1258,Mahindra,Verito,,,18 km/litre
+1259,Mahindra,Verito,,,18 km/litre
+1260,Mahindra,Verito,,,18 km/litre
+1261,Bmw,X5,,,
+1262,Bmw,X5,,,
+1263,Bmw,X5,,,
+1264,Mahindra,Alturas G4,,,
+1265,Mahindra,Alturas G4,,,
+1266,Ferrari,812 Superfast,,,
